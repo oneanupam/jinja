@@ -1,5 +1,0 @@
-<html>
-{% include "header.template" %}
-<body>
-</body>
-</html>
