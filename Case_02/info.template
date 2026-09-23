@@ -1,5 +1,0 @@
-{% if truth %}
-This is true
-{% else %}
-This is false
-{% endif %}

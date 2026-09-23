@@ -1,6 +1,0 @@
-{% extends "base.template" %}
-{% block content %}
-  <p>
-  {{ body }}
-  </p>
-{% endblock %}
