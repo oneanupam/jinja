@@ -1,0 +1,17 @@
+[project]
+name = "jinja"
+version = "0.1.0"
+description = "A repository for jinja2 template engine"
+readme = "README.md"
+authors = [
+    { name = "Anupam", email = "anupaminit@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+jinja = "jinja:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
